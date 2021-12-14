@@ -1,0 +1,18 @@
+Problema soti-sotii rau - lab 2 AI
+
+    - Stare:
+        - vector caracteristic sotii W[w1, w2, ..., wn], wi apartine {0, 1}
+        - vector caracteristic soti  H[h1, h2, ..., hn], hi apartine {0, 1}
+        - pozitie barca b apartine {0, 1}
+        - 0 - mal stang
+        - 1 - mal drept
+
+    - Stare initiala:
+        - W[0, 0, ..., 0]
+        - H[0, 0, ..., 0]
+        - p = 0
+
+    - Stare finala
+        - W[1, 1, ..., 1]
+        - H[1, 1, ..., 1]
+        - p = 1
